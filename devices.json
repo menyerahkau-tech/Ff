@@ -1,0 +1,38 @@
+{
+    "8025512893": {
+        "unique_device_id": "Google|5b2f82e0-eca4-45db-8e92-31e052dc2231",
+        "brand": "Xiaomi",
+        "model": "2201122G",
+        "gpu_renderer": "Adreno (TM) 730",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 1080,
+        "screen_height": 2400,
+        "screen_dpi": "363",
+        "memory": 2802,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2875 | 9",
+        "client_ip": "137.63.233.177",
+        "android_id": "afa4daabe5b8282f",
+        "gsf_id": "c65f45545950cd8a",
+        "build_fingerprint": "xiaomi/2201122g/2201122g:Android_OS_13/user/release-keys",
+        "serial_number": "6eca9673f9628f32",
+        "hardware_id": "8a702f88d12f5ee2"
+    },
+    "7232361087": {
+        "unique_device_id": "Google|4a9b4231-bc48-4ccb-b41d-8aa3dfa647b8",
+        "brand": "Poco",
+        "model": "M2102J20SG",
+        "gpu_renderer": "Adreno (TM) 660",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 1080,
+        "screen_height": 1600,
+        "screen_dpi": "334",
+        "memory": 4258,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 3154 | 12",
+        "client_ip": "172.10.173.84",
+        "android_id": "1a96b96ea6ac92d5",
+        "gsf_id": "79658042c4ccc1a0",
+        "build_fingerprint": "poco/m2102j20sg/m2102j20sg:Android_OS_13/user/release-keys",
+        "serial_number": "9a2754ee031ca822",
+        "hardware_id": "df1021191b05bce6"
+    }
+}
